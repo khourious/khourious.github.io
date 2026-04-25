@@ -9,4 +9,4 @@
 - [vigeas: VIral GEnome ASsembly pipelines for WGS](https://github.com/khourious/vigeas)
 
 ## Courses
-[IGM-TRAIN: Bioinformática Decodificada: A Jornada do Iniciante à Genômica de Patógenos](https://github.com/khourious/IGM-TRAIN?tab=readme-ov-file)
+- [IGM-TRAIN: Bioinformática Decodificada: A Jornada do Iniciante à Genômica de Patógenos](https://github.com/khourious/IGM-TRAIN?tab=readme-ov-file)
